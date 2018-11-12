@@ -27,6 +27,7 @@ Core idea of the modification is to reduce the number of times we need to scan o
 Input: 
 A 20Kb text file is used as an example. (from: https://www.sample-videos.com/download-sample-text-file.php).
 stdin input is also supported per homework requirement.
+
 Output: 
 The most frequent 20 sequential patterns mined out from the input dataset. Sorted by support and then ASCII order.
 
